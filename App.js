@@ -14,14 +14,14 @@ export default function App() {
     <View style={styles.container}>
       <View style={styles.head}>
         <Text style={styles.greet}>Good Morning</Text>
-        <Icon name="notifications-none" size={35} color="white" />
+        <Icon name="notifications-none" size={30} color="white" />
         <Icons
           style={styles.icon}
           name="clockcircleo"
-          size={30}
+          size={25}
           color="white"
         />
-        <Icons name="setting" size={30} color="white" />
+        <Icons name="setting" size={25} color="white" />
       </View>
       <View style={styles.body}>
         <View style={styles.top}>
