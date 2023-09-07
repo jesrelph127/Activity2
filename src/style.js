@@ -103,6 +103,9 @@ export const styles = StyleSheet.create({
     borderRadius: 20,
     color: "white",
   },
+  title1: {
+    color: "#b3b3b3",
+  },
   title: {
     color: "white",
   },
