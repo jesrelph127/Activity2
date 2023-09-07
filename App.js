@@ -87,16 +87,16 @@ export default function App() {
         </View>
         <View style={styles.foot1}>
           <Icons name="search1" size={30} color="#b3b3b3" />
-          <Text style={styles.title}>Search</Text>
+          <Text style={styles.title1}>Search</Text>
         </View>
 
         <View style={styles.foot1}>
           <Iconss name="library-outline" size={30} color="#b3b3b3" />
-          <Text style={styles.title}>Your Library</Text>
+          <Text style={styles.title1}>Your Library</Text>
         </View>
         <View style={styles.foot1}>
           <Icon2 name="spotify" size={30} color="#b3b3b3" />
-          <Text style={styles.title}>Premium</Text>
+          <Text style={styles.title1}>Premium</Text>
         </View>
       </View>
       <StatusBar
