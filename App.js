@@ -86,16 +86,16 @@ export default function App() {
           <Text style={styles.title}>Home</Text>
         </View>
         <View style={styles.foot1}>
-          <Icons name="search1" size={30} color="white" />
+          <Icons name="search1" size={30} color="#b3b3b3" />
           <Text style={styles.title}>Search</Text>
         </View>
 
         <View style={styles.foot1}>
-          <Iconss name="library-outline" size={30} color="white" />
+          <Iconss name="library-outline" size={30} color="#b3b3b3" />
           <Text style={styles.title}>Your Library</Text>
         </View>
         <View style={styles.foot1}>
-          <Icon2 name="spotify" size={30} color="white" />
+          <Icon2 name="spotify" size={30} color="#b3b3b3" />
           <Text style={styles.title}>Premium</Text>
         </View>
       </View>
